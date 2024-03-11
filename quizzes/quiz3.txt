@@ -1,0 +1,8 @@
+1) C
+2) C
+3) C or D
+4) D
+5) A, B, C (biased because we are sampling from the dataset)
+6) C
+7) B, because bootstraping isn't going to produce a good representation of the maximum value
+
